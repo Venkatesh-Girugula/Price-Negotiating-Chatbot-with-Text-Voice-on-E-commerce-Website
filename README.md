@@ -1,8 +1,5 @@
 # Price-Negotiating-Chatbot-with-Text-Voice-on-E-commerce-Website
 
-Based on your uploaded files and project structure, here's a complete and detailed README file you can directly use in your GitHub repository.
-
----
 
 ## 📦 Price Negotiating Chatbot for E-commerce (with Voice & Text)
 
@@ -167,19 +164,3 @@ Used in `Main.py` and `test.py`:
 * (Optional) Dockerize app for easy deployment
 
 ---
-
-### 👤 Author
-
-**Venkatesh**
-
-> \[Your LinkedIn or GitHub Profile Link]
-
----
-
-### 📄 License
-
-This project is under the MIT License – feel free to use, modify and distribute.
-
----
-
-Would you like this README saved as a `.md` file for direct upload to GitHub?
